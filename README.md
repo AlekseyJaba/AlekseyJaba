@@ -1,5 +1,5 @@
 <p>
-    <img src="https://giphy.com/embed/9JJtjLliEF5N68yf3e" align="right" width="480" height="331" />
+    <img src="https://giphy.com/embed/9JJtjLliEF5N68yf3e&rid=giphy.gif&ct=g" align="right" width="480" height="331" />
    I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Moscow. 
 
 Originally from Sochi 🌴

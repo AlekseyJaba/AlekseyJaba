@@ -1,12 +1,3 @@
-<div id="counter" align="center">
-<img src="https://komarev.com/ghpvc/?username=QuantumFluxx&style=flat-square&color=blue" alt=""/>
-<a href="https://youtu.be/dQw4w9WgXcQ?t=43">
-    <img src="https://img.shields.io/badge/Secret button-red?style=flat&logo=Wikiquote&logoColor=white" alt="WhatsApp"/>
-  </a>
-</div>
-
-----------------
-
 <p>
     <img src="https://media3.giphy.com/media/jsYfLXpibzkdr5sjZ8/giphy.gif?cid=ecf05e47a6whsdfeohn3rmhpyuzte2mcmjpihrvzgvpk5bdl&rid=giphy.gif&ct=g" align="right" width="410" height="255" />
    I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Moscow. 

@@ -1,7 +1,8 @@
-# Hi, I'm Alex 
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/abhishek-maira/" target="_blank"><img height="30" src="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D0%B2%D0%BE%D0%BB%D0%B3%D0%B8%D0%BD-6b249829a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/abhishek_maira10/" target="_blank"><img height="30" src="https://www.instagram.com/volgin64?utm_source=qr&igsh=NmlzeHFncnhkYXk0"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D0%B2%D0%BE%D0%BB%D0%B3%D0%B8%D0%BD-6b249829a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/volgin64?utm_source=qr&igsh=NmlzeHFncnhkYXk0" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>

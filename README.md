@@ -7,9 +7,9 @@ Originally from Sochi 🌴
 
 - :telescope: Love working with data.
 
-- :seedling: I like to learn new things and do self-study.
+- :seedling: I like predict events using analysis.
 
-- :zap: In my free time, I complete projects and take courses.
+- :zap: In my free time, I learn statistic, math analys, neural model.
   
 - :coffee: My [![Tableau Badge](https://img.shields.io/badge/-Tableau-informational?style=flat&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/alexander.rodikov) dashboards. All my [![Certificates Badge](https://img.shields.io/badge/-certificates-9cf?style=flat&logo=Checkmarx&logoColor=white)](https://github.com/Data-Temple/DataScience-Roadmap/tree/main/Certificates).
 

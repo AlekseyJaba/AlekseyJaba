@@ -1,5 +1,5 @@
 <p>
-    <div style="width:100%;height:0;padding-bottom:69%;position:relative;"><iframe src="https://giphy.com/embed/9JJtjLliEF5N68yf3e" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/tumblr-data-fuzzyghost-9JJtjLliEF5N68yf3e">via GIPHY</a></p>
+     <img src="https://giphy.com/embed/xT9C25UNTwfZuk85WP" align="right" width="410" height="255" />
    I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Moscow. 
 
 Originally from Sochi 🌴

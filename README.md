@@ -1,6 +1,6 @@
 # Hey, like to see you 
 <p>
-     <img src="https://media.giphy.com/media/bmQBu3aSF0DxadphkG/giphy.gif?cid=790b7611jpj5jz4g78jm2yvvk4ewagioqaat6r2vda8uacjc&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" width="410" height="255" />
+     <img src="https://media.giphy.com/media/bmQBu3aSF0DxadphkG/giphy.gif?cid=790b7611jpj5jz4g78jm2yvvk4ewagioqaat6r2vda8uacjc&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" width="350" height="280" />
    I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Moscow. 
 
 Originally from Sochi 🌴

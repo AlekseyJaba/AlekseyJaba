@@ -3,7 +3,7 @@
      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFkbDhhdzRqdDdrZWRzeWdnMDQ0emVrOWd2ZThjNGF1N3hzOTlxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" align="right" width="350" height="280" />
    I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Moscow. 
 
-Originally from Sochi 🌴
+
 
 - :telescope: Love working with data.
 
